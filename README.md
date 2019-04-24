@@ -1,4 +1,4 @@
-# PythonSeleniumExample
+# Python - Selenium Example
 
 A small example of using selenium framework in python
 
